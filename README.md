@@ -1,2 +1,0 @@
-# SQL-test
-SQL Test
